@@ -15,5 +15,4 @@ public class ReplacePatch implements Patch {
         this.path = path;
         this.value = value;
     }
-
 }

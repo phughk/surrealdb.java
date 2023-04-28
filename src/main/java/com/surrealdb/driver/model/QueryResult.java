@@ -1,8 +1,7 @@
 package com.surrealdb.driver.model;
 
-import lombok.Data;
-
 import java.util.List;
+import lombok.Data;
 
 /**
  * @author Khalid Alharisi

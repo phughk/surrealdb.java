@@ -15,5 +15,4 @@ public class AddPatch implements Patch {
         this.path = path;
         this.value = value;
     }
-
 }

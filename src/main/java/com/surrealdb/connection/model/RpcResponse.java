@@ -18,5 +18,4 @@ public class RpcResponse {
     private final String id;
     private final JsonElement result;
     private final Error error;
-
 }

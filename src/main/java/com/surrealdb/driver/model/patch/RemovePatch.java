@@ -13,5 +13,4 @@ public class RemovePatch implements Patch {
     public RemovePatch(String path) {
         this.path = path;
     }
-
 }
